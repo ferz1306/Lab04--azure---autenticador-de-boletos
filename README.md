@@ -40,8 +40,9 @@ Responsável por:
 
 ## 🔄 Fluxo da aplicação
 
-```text
 Frontend → API Generate → Service Bus → API Validate → Retorno ao usuário
+
+---
 
 ## 📸 Demonstração
 
@@ -49,10 +50,10 @@ Frontend → API Generate → Service Bus → API Validate → Retorno ao usuár
 ![Home](./prints/home.png)
 
 ### ✅ Boleto válido
-![Valido](/prints/resultado-valido.png)
+![Valido](./prints/resultado-valido.png)
 
 ### ❌ Boleto inválido
-![Invalido](/prints/resultado-invalido.png)
+![Invalido](./prints/resultado-invalido.png)
 
 ### 🧪 Teste no Postman
 ![Postman](./prints/postman-generate.png)
