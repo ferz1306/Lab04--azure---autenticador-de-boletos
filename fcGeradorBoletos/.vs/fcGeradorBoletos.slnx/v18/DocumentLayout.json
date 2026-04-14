@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48AC905-157D-4DBB-B28A-BC07DFD03EF4}|fnValidaBoleto\\fnValidaBoleto.csproj|c:\\users\\barberato\\desktop\\azure\\lab04-gerarboleto\\fcgeradorboletos\\fnvalidaboleto\\validaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48AC905-157D-4DBB-B28A-BC07DFD03EF4}|fnValidaBoleto\\fnValidaBoleto.csproj|solutionrelative:fnvalidaboleto\\validaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5943F8-9235-0CDA-985F-C77DB0A9C2E5}|fcGeradorBoletos\\fcGeradorBoletos.csproj|c:\\users\\barberato\\desktop\\azure\\lab04-gerarboleto\\fcgeradorboletos\\fcgeradorboletos\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5943F8-9235-0CDA-985F-C77DB0A9C2E5}|fcGeradorBoletos\\fcGeradorBoletos.csproj|solutionrelative:fcgeradorboletos\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48AC905-157D-4DBB-B28A-BC07DFD03EF4}|fnValidaBoleto\\fnValidaBoleto.csproj|c:\\users\\barberato\\desktop\\azure\\lab04-gerarboleto\\fcgeradorboletos\\fnvalidaboleto\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A48AC905-157D-4DBB-B28A-BC07DFD03EF4}|fnValidaBoleto\\fnValidaBoleto.csproj|solutionrelative:fnvalidaboleto\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidaBoletos.cs",
+              "DocumentMoniker": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\fnValidaBoleto\\ValidaBoletos.cs",
+              "RelativeDocumentMoniker": "fnValidaBoleto\\ValidaBoletos.cs",
+              "ToolTip": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\fnValidaBoleto\\ValidaBoletos.cs",
+              "RelativeToolTip": "fnValidaBoleto\\ValidaBoletos.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T15:28:40.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\fcGeradorBoletos\\local.settings.json",
+              "RelativeDocumentMoniker": "fcGeradorBoletos\\local.settings.json",
+              "ToolTip": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\fcGeradorBoletos\\local.settings.json",
+              "RelativeToolTip": "fcGeradorBoletos\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T15:21:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\fnValidaBoleto\\local.settings.json",
+              "RelativeDocumentMoniker": "fnValidaBoleto\\local.settings.json",
+              "ToolTip": "C:\\Users\\Barberato\\Desktop\\azure\\Lab04-gerarboleto\\fcGeradorBoletos\\fnValidaBoleto\\local.settings.json",
+              "RelativeToolTip": "fnValidaBoleto\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T14:55:26.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

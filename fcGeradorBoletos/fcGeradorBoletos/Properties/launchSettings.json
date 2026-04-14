@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fcGeradorBoletos": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7232 --cors \"*\""
+    }
+  }
+}

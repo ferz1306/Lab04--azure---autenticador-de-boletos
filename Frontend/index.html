@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gerador de Boleto</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h2>Gerador de Boleto</h2>
+
+      <div class="input-group">
+        <label>Data de Vencimento</label>
+        <input type="date" id="data" />
+      </div>
+
+      <div class="input-group">
+        <label>Valor</label>
+        <input type="number" id="valor" step="0.01" />
+      </div>
+
+      <button onclick="gerarEValidar()">Gerar e Validar</button>
+
+      <div id="resultado" class="result" style="display: none">
+        <h3>Resultado</h3>
+
+        <p id="barcode" class="barcode"></p>
+
+        <img id="imagem" />
+
+        <p id="mensagem"></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

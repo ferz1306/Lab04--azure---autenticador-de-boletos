@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "fcGeradorBoletos\\fcGeradorBoletos.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "fnValidaBoleto\\fnValidaBoleto.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
