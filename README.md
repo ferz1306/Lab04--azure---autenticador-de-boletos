@@ -46,17 +46,17 @@ Frontend → API Generate → Service Bus → API Validate → Retorno ao usuár
 ## 📸 Demonstração
 
 ### 🏠 Tela inicial
-![Home](./images/home.png)
+![Home](./prints/home.png)
 
 ### ✅ Boleto válido
-![Valido](./images/resultado-valido.png)
+![Valido](/prints/resultado-valido.png)
 
 ### ❌ Boleto inválido
-![Invalido](./images/resultado-invalido.png)
+![Invalido](/prints/resultado-invalido.png)
 
 ### 🧪 Teste no Postman
-![Postman](./images/postman-generate.png)
-![Postman](./images/postman-validate.png)
+![Postman](./prints/postman-generate.png)
+![Postman](./prints/postman-validate.png)
 
 ### ☁️ Service Bus
-![ServiceBus](./images/servicebus.png)
+![ServiceBus](./prints/servicebus.png)
